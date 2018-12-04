@@ -1,6 +1,0 @@
-# Summary
-
-`Hello World!`
-
-We have designed a nice project and brought it to the world!
-
